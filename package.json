@@ -1,0 +1,32 @@
+{
+    "name": "homebridge-homepod-radio",
+    "version": "0.1.0",
+    "description": "Play radio streams to HomePod using HomeBridge.",
+    "main": "index.js",
+    "scripts": {
+    },
+    "keywords": [
+        "homebridge",
+        "homebridge-plugin",
+        "webradio",
+        "radio",
+        "player",
+        "stream",
+        "homepod"
+    ],
+    "author": "Daniel Man",
+    "license": "MIT",
+    "engines": {
+        "node": ">=7.6.0",
+        "homebridge": ">=0.2.0"
+    },
+    "dependencies": {
+        "lame": "^1.2.4",
+        "request": "^2.83.0",
+        "airtunes2": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mcfisto/homebridge-homepod-radio.git"
+    }
+}
