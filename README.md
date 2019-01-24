@@ -1,12 +1,12 @@
-# HomePod Radio
+# AirTunes Radio
 
-Internet radio player which will work with HomePod.
+Internet radio player which will work with HomePod, generally with any AirTunes device.
 
-Note: Does not support device discovery so you'll need to specify your HomePod IT address.
+Note: Does not support device discovery so you'll need to specify your HomePod IP address.
 
 ## Installation
 
-```npm install -g homebridge-homepod-radio```
+```npm install -g homebridge-airtunes-radio```
 
 ## Configuration
 
