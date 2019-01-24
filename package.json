@@ -1,10 +1,9 @@
 {
-    "name": "homebridge-homepod-radio",
-    "version": "0.1.0",
-    "description": "Play radio streams to HomePod using HomeBridge.",
+    "name": "homebridge-airtunes-radio",
+    "version": "0.2.0",
+    "description": "Play radio streams to AirTunes (e.g. HomePod) using HomeBridge.",
     "main": "index.js",
-    "scripts": {
-    },
+    "scripts": {},
     "keywords": [
         "homebridge",
         "homebridge-plugin",
@@ -25,10 +24,10 @@
     "dependencies": {
         "lame": "^1.2.4",
         "request": "^2.83.0",
-        "airtunes2": "^1.1.0"
+        "airtunes2": "^2.0.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mcfisto/homebridge-homepod-radio.git"
+        "url": "https://github.com/mcfisto/homebridge-airtunes-radio.git"
     }
 }
